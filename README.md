@@ -1,4 +1,7 @@
 # text-to-video-converter_with_diffusers
+**Video Instructions and demo :-**
+
+https://github.com/Vikramjeetsingh07/text-to-video-converter_with_diffusers/assets/89864178/0251441d-819e-4481-b559-f0affc90bd5f
 
 Link to demo :- https://youtu.be/OTTXYWmvsLU <br> <br>
                             **Text-to-Video Converter using Diffusers** <br>
