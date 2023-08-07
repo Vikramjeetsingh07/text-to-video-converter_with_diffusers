@@ -1,4 +1,8 @@
 # text-to-video-converter_with_diffusers
+
+Medium Link :- 
+https://medium.com/@vikramjeet0201/creating-a-text-to-video-converter-using-diffusers-transforming-words-into-motion-1599626b0c90
+
 **Video Instructions and demo :-**
 
 https://github.com/Vikramjeetsingh07/text-to-video-converter_with_diffusers/assets/89864178/0251441d-819e-4481-b559-f0affc90bd5f
